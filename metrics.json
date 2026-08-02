@@ -1,0 +1,524 @@
+{
+  "generated_at": "2026-08-01T21:54:21",
+  "kpi": {
+    "encounters": 5200.0,
+    "avg_er_wait_min": 90.8,
+    "avg_los_days": 4.22,
+    "readmission_rate_pct": 16.5,
+    "avg_satisfaction": 4.15,
+    "avg_cost_per_patient": 11650.0,
+    "bed_occupancy_pct": 82.6
+  },
+  "department_performance": [
+    {
+      "dept_id": "D3",
+      "department": "Cardiology",
+      "benchmark_los": 4.2,
+      "encounters": 618,
+      "avg_los": 4.7,
+      "los_vs_benchmark": 0.5,
+      "readmit_pct": 18.3,
+      "satisfaction": 4.16,
+      "avg_cost": 11388.0
+    },
+    {
+      "dept_id": "D8",
+      "department": "Neurology",
+      "benchmark_los": 4.0,
+      "encounters": 678,
+      "avg_los": 4.33,
+      "los_vs_benchmark": 0.33,
+      "readmit_pct": 15.9,
+      "satisfaction": 4.14,
+      "avg_cost": 10616.0
+    },
+    {
+      "dept_id": "D2",
+      "department": "ICU",
+      "benchmark_los": 5.5,
+      "encounters": 672,
+      "avg_los": 5.81,
+      "los_vs_benchmark": 0.31,
+      "readmit_pct": 25.7,
+      "satisfaction": 4.14,
+      "avg_cost": 25830.0
+    },
+    {
+      "dept_id": "D7",
+      "department": "General Surgery",
+      "benchmark_los": 4.5,
+      "encounters": 655,
+      "avg_los": 4.79,
+      "los_vs_benchmark": 0.29,
+      "readmit_pct": 14.0,
+      "satisfaction": 4.2,
+      "avg_cost": 12432.0
+    },
+    {
+      "dept_id": "D4",
+      "department": "Orthopedics",
+      "benchmark_los": 3.8,
+      "encounters": 630,
+      "avg_los": 4.03,
+      "los_vs_benchmark": 0.23,
+      "readmit_pct": 12.7,
+      "satisfaction": 4.17,
+      "avg_cost": 9187.0
+    },
+    {
+      "dept_id": "D5",
+      "department": "Oncology",
+      "benchmark_los": 6.0,
+      "encounters": 645,
+      "avg_los": 6.23,
+      "los_vs_benchmark": 0.23,
+      "readmit_pct": 23.1,
+      "satisfaction": 4.15,
+      "avg_cost": 16121.0
+    },
+    {
+      "dept_id": "D6",
+      "department": "Pediatrics",
+      "benchmark_los": 2.9,
+      "encounters": 707,
+      "avg_los": 3.09,
+      "los_vs_benchmark": 0.19,
+      "readmit_pct": 9.6,
+      "satisfaction": 4.21,
+      "avg_cost": 5604.0
+    },
+    {
+      "dept_id": "D1",
+      "department": "Emergency",
+      "benchmark_los": 0.5,
+      "encounters": 595,
+      "avg_los": 0.55,
+      "los_vs_benchmark": 0.05,
+      "readmit_pct": 12.6,
+      "satisfaction": 4.03,
+      "avg_cost": 1167.0
+    }
+  ],
+  "occupancy": [
+    {
+      "department": "Oncology",
+      "beds": 8,
+      "occupancy_pct": 140.0
+    },
+    {
+      "department": "ICU",
+      "beds": 8,
+      "occupancy_pct": 136.0
+    },
+    {
+      "department": "Neurology",
+      "beds": 7,
+      "occupancy_pct": 116.8
+    },
+    {
+      "department": "General Surgery",
+      "beds": 9,
+      "occupancy_pct": 97.1
+    },
+    {
+      "department": "Pediatrics",
+      "beds": 7,
+      "occupancy_pct": 87.0
+    },
+    {
+      "department": "Cardiology",
+      "beds": 10,
+      "occupancy_pct": 80.9
+    },
+    {
+      "department": "Orthopedics",
+      "beds": 9,
+      "occupancy_pct": 78.5
+    },
+    {
+      "department": "Emergency",
+      "beds": 16,
+      "occupancy_pct": 5.7
+    }
+  ],
+  "monthly_trend": [
+    {
+      "month": "2024-08",
+      "avg_er_wait_min": 84.0,
+      "readmission_rate_pct": 18.2,
+      "admissions": 444
+    },
+    {
+      "month": "2024-09",
+      "avg_er_wait_min": 83.5,
+      "readmission_rate_pct": 17.1,
+      "admissions": 432
+    },
+    {
+      "month": "2024-10",
+      "avg_er_wait_min": 84.1,
+      "readmission_rate_pct": 18.1,
+      "admissions": 453
+    },
+    {
+      "month": "2024-11",
+      "avg_er_wait_min": 82.0,
+      "readmission_rate_pct": 15.3,
+      "admissions": 432
+    },
+    {
+      "month": "2024-12",
+      "avg_er_wait_min": 111.9,
+      "readmission_rate_pct": 14.6,
+      "admissions": 458
+    },
+    {
+      "month": "2025-01",
+      "avg_er_wait_min": 112.8,
+      "readmission_rate_pct": 14.9,
+      "admissions": 417
+    },
+    {
+      "month": "2025-02",
+      "avg_er_wait_min": 112.8,
+      "readmission_rate_pct": 14.9,
+      "admissions": 435
+    },
+    {
+      "month": "2025-03",
+      "avg_er_wait_min": 84.3,
+      "readmission_rate_pct": 16.1,
+      "admissions": 440
+    },
+    {
+      "month": "2025-04",
+      "avg_er_wait_min": 82.4,
+      "readmission_rate_pct": 15.2,
+      "admissions": 462
+    },
+    {
+      "month": "2025-05",
+      "avg_er_wait_min": 84.1,
+      "readmission_rate_pct": 15.7,
+      "admissions": 394
+    },
+    {
+      "month": "2025-06",
+      "avg_er_wait_min": 85.7,
+      "readmission_rate_pct": 19.3,
+      "admissions": 431
+    },
+    {
+      "month": "2025-07",
+      "avg_er_wait_min": 81.3,
+      "readmission_rate_pct": 18.7,
+      "admissions": 402
+    }
+  ],
+  "er_wait_by_acuity": [
+    {
+      "acuity": 1,
+      "encounters": 478,
+      "avg_er_wait_min": 120.0
+    },
+    {
+      "acuity": 2,
+      "encounters": 1234,
+      "avg_er_wait_min": 106.7
+    },
+    {
+      "acuity": 3,
+      "encounters": 1758,
+      "avg_er_wait_min": 90.7
+    },
+    {
+      "acuity": 4,
+      "encounters": 1291,
+      "avg_er_wait_min": 76.0
+    },
+    {
+      "acuity": 5,
+      "encounters": 439,
+      "avg_er_wait_min": 58.3
+    }
+  ],
+  "forecast": {
+    "history": [
+      {
+        "week": "2024-08-05",
+        "admissions": 95
+      },
+      {
+        "week": "2024-08-12",
+        "admissions": 105
+      },
+      {
+        "week": "2024-08-19",
+        "admissions": 102
+      },
+      {
+        "week": "2024-08-26",
+        "admissions": 90
+      },
+      {
+        "week": "2024-09-02",
+        "admissions": 99
+      },
+      {
+        "week": "2024-09-09",
+        "admissions": 91
+      },
+      {
+        "week": "2024-09-16",
+        "admissions": 98
+      },
+      {
+        "week": "2024-09-23",
+        "admissions": 100
+      },
+      {
+        "week": "2024-09-30",
+        "admissions": 95
+      },
+      {
+        "week": "2024-10-07",
+        "admissions": 90
+      },
+      {
+        "week": "2024-10-14",
+        "admissions": 96
+      },
+      {
+        "week": "2024-10-21",
+        "admissions": 94
+      },
+      {
+        "week": "2024-10-28",
+        "admissions": 104
+      },
+      {
+        "week": "2024-11-04",
+        "admissions": 104
+      },
+      {
+        "week": "2024-11-11",
+        "admissions": 104
+      },
+      {
+        "week": "2024-11-18",
+        "admissions": 106
+      },
+      {
+        "week": "2024-11-25",
+        "admissions": 109
+      },
+      {
+        "week": "2024-12-02",
+        "admissions": 130
+      },
+      {
+        "week": "2024-12-09",
+        "admissions": 128
+      },
+      {
+        "week": "2024-12-16",
+        "admissions": 124
+      },
+      {
+        "week": "2024-12-23",
+        "admissions": 124
+      },
+      {
+        "week": "2024-12-30",
+        "admissions": 134
+      },
+      {
+        "week": "2025-01-06",
+        "admissions": 117
+      },
+      {
+        "week": "2025-01-13",
+        "admissions": 140
+      },
+      {
+        "week": "2025-01-20",
+        "admissions": 138
+      },
+      {
+        "week": "2025-01-27",
+        "admissions": 128
+      },
+      {
+        "week": "2025-02-03",
+        "admissions": 130
+      },
+      {
+        "week": "2025-02-10",
+        "admissions": 119
+      },
+      {
+        "week": "2025-02-17",
+        "admissions": 119
+      },
+      {
+        "week": "2025-02-24",
+        "admissions": 133
+      },
+      {
+        "week": "2025-03-03",
+        "admissions": 108
+      },
+      {
+        "week": "2025-03-10",
+        "admissions": 112
+      },
+      {
+        "week": "2025-03-17",
+        "admissions": 99
+      },
+      {
+        "week": "2025-03-24",
+        "admissions": 108
+      },
+      {
+        "week": "2025-03-31",
+        "admissions": 108
+      },
+      {
+        "week": "2025-04-07",
+        "admissions": 111
+      },
+      {
+        "week": "2025-04-14",
+        "admissions": 105
+      },
+      {
+        "week": "2025-04-21",
+        "admissions": 109
+      },
+      {
+        "week": "2025-04-28",
+        "admissions": 110
+      },
+      {
+        "week": "2025-05-05",
+        "admissions": 115
+      },
+      {
+        "week": "2025-05-12",
+        "admissions": 119
+      },
+      {
+        "week": "2025-05-19",
+        "admissions": 108
+      },
+      {
+        "week": "2025-05-26",
+        "admissions": 109
+      },
+      {
+        "week": "2025-06-02",
+        "admissions": 111
+      },
+      {
+        "week": "2025-06-09",
+        "admissions": 113
+      },
+      {
+        "week": "2025-06-16",
+        "admissions": 112
+      },
+      {
+        "week": "2025-06-23",
+        "admissions": 118
+      },
+      {
+        "week": "2025-06-30",
+        "admissions": 106
+      },
+      {
+        "week": "2025-07-07",
+        "admissions": 109
+      },
+      {
+        "week": "2025-07-14",
+        "admissions": 125
+      },
+      {
+        "week": "2025-07-21",
+        "admissions": 112
+      },
+      {
+        "week": "2025-07-28",
+        "admissions": 127
+      }
+    ],
+    "forecast": [
+      {
+        "week": "2025-08-04",
+        "admissions": 125
+      },
+      {
+        "week": "2025-08-11",
+        "admissions": 125
+      },
+      {
+        "week": "2025-08-18",
+        "admissions": 126
+      },
+      {
+        "week": "2025-08-25",
+        "admissions": 126
+      },
+      {
+        "week": "2025-09-01",
+        "admissions": 123
+      },
+      {
+        "week": "2025-09-08",
+        "admissions": 123
+      },
+      {
+        "week": "2025-09-15",
+        "admissions": 124
+      },
+      {
+        "week": "2025-09-22",
+        "admissions": 124
+      }
+    ],
+    "next_month_change_pct": 5.9
+  },
+  "readmit_model": {
+    "roc_auc": 0.656,
+    "n_train": 3900,
+    "n_test": 1300,
+    "feature_importance": [
+      {
+        "feature": "length_of_stay",
+        "importance": 0.388
+      },
+      {
+        "feature": "er_wait_min",
+        "importance": 0.239
+      },
+      {
+        "feature": "age",
+        "importance": 0.188
+      },
+      {
+        "feature": "prior_admits",
+        "importance": 0.095
+      },
+      {
+        "feature": "dept_code",
+        "importance": 0.059
+      },
+      {
+        "feature": "acuity",
+        "importance": 0.031
+      }
+    ]
+  },
+  "ai_summary": "Average ER wait is 90.8 min with bed occupancy at 82.6% and a 30-day readmission rate of 16.5%. ICU readmissions decreased 14.1% month-over-month. Cardiology average length of stay exceeds its benchmark by 0.5 days. Oncology is the most pressured unit at 140.0% occupancy. Admissions are forecast to rise 5.9% next month; the readmission-risk model (ROC-AUC 0.656) ranks length of stay, age and prior admissions as the strongest drivers \u2014 the shortlist for discharge-planning intervention."
+}
